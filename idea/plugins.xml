@@ -1,0 +1,9 @@
+<plugins>
+    <plugin id="org.flowreactor.idea" version="1.3.4" url="http://flowreactor.org/idea/FlowTestsPlugin-1.3.4.zip">
+        <name>FlowReactor Test Files</name>
+        <vendor email="support@secretpad.com" url="http://www.secretpad.com">SecretPad</vendor>
+        <description><![CDATA[
+      FlowReactor test files syntax highlighting plugin
+      ]]></description>
+    </plugin>
+</plugins>
